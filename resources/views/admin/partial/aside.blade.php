@@ -34,7 +34,7 @@
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="pages/forms/basic_elements.html">
+              <a class="nav-link" href="{{route('user')}}">
                 <i class="mdi mdi-view-headline menu-icon"></i>
                 <span class="menu-title">Users</span>
               </a>
